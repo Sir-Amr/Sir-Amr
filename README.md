@@ -7,18 +7,17 @@
 </h3>
 
 ---
-
 ## 🔥 About Me  
 - 📊 **Aspiring Data Analyst** with a strong foundation in **SQL, Python, Excel, Power BI, and Tableau**.  
 - 💡 Passionate about transforming **raw data into actionable insights** to support business decision-making.  
 - 🏆 Experienced in **business intelligence, sales analytics, and customer behavior analysis**.  
 - 📈 Skilled in **data visualization, problem-solving, and predictive analytics**.  
 - 🚀 Seeking an opportunity to apply **data analysis, visualization, and problem-solving skills** in a dynamic environment to drive efficiency and business growth.  
-- 🔍 Always eager to **learn new technologies** and enhance my expertise in data analytics and machine learning.  
-
+- 🔍 Always eager to **learn new technologies** and enhance my expertise in data analytics and machine learning.
+  
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500">
 
 ---
-
 ## 🚀 Skills & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,11 +28,9 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-#ffffff?style=for-the-badge&logo=plotly&logoColor=blue" />
 </p>
-
 ---
-
 ## 📂 Featured Projects  
 🔹 **[Supermarket Sales Analysis](https://github.com/Sir-Amr/Supermarket-Sales-Data-Project)** → **Exploring sales trends using Python & Power BI**  
-🔹 **[E-commerce Data Analysis - Barizella]([https://github.com/Sir-Amr/barizella-analysis](https://github.com/Sir-Amr/Brazilian-E-Commerce-Analysis))** → **Analyzing online sales using Tableau**  
+🔹 **[E-commerce Data Analysis - Barizella](https://github.com/Sir-Amr/Brazilian-E-Commerce-Analysis)** → **Analyzing online sales using Tableau**  
 
 ---
