@@ -7,6 +7,9 @@
 </h3>
 
 ---
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500">
+---
+
 ## 🔥 About Me  
 - 📊 **Aspiring Data Analyst** with a strong foundation in **SQL, Python, Excel, Power BI, and Tableau**.  
 - 💡 Passionate about transforming **raw data into actionable insights** to support business decision-making.  
@@ -15,8 +18,6 @@
 - 🚀 Seeking an opportunity to apply **data analysis, visualization, and problem-solving skills** in a dynamic environment to drive efficiency and business growth.  
 - 🔍 Always eager to **learn new technologies** and enhance my expertise in data analytics and machine learning.
   
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="500">
-
 ---
 ## 🚀 Skills & Tools  
 <p align="center">
