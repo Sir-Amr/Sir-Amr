@@ -30,12 +30,6 @@
 </p>
 
 ---
-
-## 📂 Featured Projects  
-🔹 **[Supermarket Sales Analysis](https://github.com/Sir-Amr/Supermarket-Sales-Data-Project)** → **Exploring sales trends using Python & Power BI**  
-🔹 **[E-commerce Data Analysis - Barizella](https://github.com/Sir-Amr/Brazilian-E-Commerce-Analysis)** → **Analyzing online sales using Tableau**  
-
----
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500">
 </p>
