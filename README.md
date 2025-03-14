@@ -3,16 +3,19 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=FF8C00&center=true&width=500&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Interactive+Dashboards;Passionate+about+Data+Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=FF8C00&center=true&width=500&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Interactive+Dashboards;Passionate+about+Data+Analyst" />
 </h3>
 
 ---
 
 ## 🔥 About Me  
-- 📊 **Data Analyst** passionate about uncovering insights through data.  
-- 💡 Skilled in **Power BI, Tableau, Python, SQL, Excel**.  
-- 📈 Love working with **data visualization, storytelling, and automation**.  
-- 🎯 Always learning and improving my **machine learning & analytics** skills.  
+- 📊 **Aspiring Data Analyst** with a strong foundation in **SQL, Python, Excel, Power BI, and Tableau**.  
+- 💡 Passionate about transforming **raw data into actionable insights** to support business decision-making.  
+- 🏆 Experienced in **business intelligence, sales analytics, and customer behavior analysis**.  
+- 📈 Skilled in **data visualization, problem-solving, and predictive analytics**.  
+- 🚀 Seeking an opportunity to apply **data analysis, visualization, and problem-solving skills** in a dynamic environment to drive efficiency and business growth.  
+- 🔍 Always eager to **learn new technologies** and enhance my expertise in data analytics and machine learning.  
+
 
 ---
 
@@ -30,12 +33,7 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Supermarket Sales Analysis](https://github.com/YourUsername/supermarket-sales-analysis)** → **Exploring sales trends using Python & Power BI**  
-🔹 **[Chocolate Sales Dashboard](https://github.com/YourUsername/chocolate-sales-dashboard)** → **Excel Dashboard for sales insights**  
-🔹 **[E-commerce Data Analysis - Barizella](https://github.com/YourUsername/barizella-analysis)** → **Analyzing online sales using Tableau**  
+🔹 **[Supermarket Sales Analysis](https://github.com/Sir-Amr/Supermarket-Sales-Data-Project)** → **Exploring sales trends using Python & Power BI**  
+🔹 **[E-commerce Data Analysis - Barizella]([https://github.com/Sir-Amr/barizella-analysis](https://github.com/Sir-Amr/Brazilian-E-Commerce-Analysis))** → **Analyzing online sales using Tableau**  
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel
